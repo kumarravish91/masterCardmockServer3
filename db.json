@@ -21,5 +21,46 @@
       ]
     }
   ]
+},
+  "filterListProduct":{
+  "st": true,
+  "msg": "SUCCESS",
+  "devErrorMessage": "",
+  "msgid": "",
+  "products": [
+    {
+      "id": "5fb7c2ca97ad0649a10d352e",
+      "name": "Apple iPad Air 64GB_21",
+      "brandId": "5eb7c2ca97ad0649a10d352e",
+      "brandName": "Apple",
+      "productSKU": "",
+      "productcategoryid": "",
+      "productTypeId": "5gb7c2ca97ad0649a10d352e",
+      "productTypeName": "testProductType",
+      "productLine": "Samsung Mob -> S4 Zoom -> C1010 -> SM-C1010ZWAINU",
+      "indicativePrice": "1000000",
+      "lowAmount": "100",
+      "highAmount": "10000000",
+      "description": "Originally released October 2014. Wi-Fi (802.11a/b/g/n/ac). Bluetooth 4.0 technology.\r\n9.7-inch Retina display. 8-megapixel iSight camera. FaceTime HD camera. 1080p HD video recording. A8X chip with 64-bit architecture",
+      "sortOrder": "991",
+      "images": [
+        {
+          "screenType": "REVIEWORDER",
+          "screenTypeCode": "600",
+          "resourceId": "20180801f3a1158c-ba93-43a1-b0f1-342eaf099d1e"
+        },
+        {
+          "screenType": "LISTICON",
+          "screenTypeCode": "200",
+          "resourceId": "201808017fd7a3af-d662-4d79-8b53-e1edc2b983f4"
+        },
+        {
+          "screenType": "Detail",
+          "screenTypeCode": "400",
+          "resourceId": "201808017fd7a3af-d662-4d79-8b53-e1edc2b983f4"
+        }
+      ]
+    }
+  ]
 }
 }
